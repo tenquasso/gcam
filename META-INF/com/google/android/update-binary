@@ -1,0 +1,4 @@
+#!/system/bin/sh
+# Dummy update-binary script for Magisk modules
+# Magisk's internal installer handles the actual flashing logic.
+# This script is primarily for recovery compatibility.
